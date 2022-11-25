@@ -17,8 +17,8 @@
 <p dir="auto">Olá, me chamo <strong>Vinicius Kaminski</strong>, sou de São Paulo, Brasil e atualmente Estudante em <strong>Desenvolvimento Web Full Stack na Trybe, para poder impactar o máximo de pessoas possíveis, com tecnologia e inovação!</strong> <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji>.</p>
 <br>
 <p dir="auto"><strong>Meus interesses pessoais:</strong></p>
-<img data-target="animated-image.replacedImage" alt="GIF" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" style="display: block; opacity: 1;">
-    <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="200" height="2"></canvas>
+<img data-target="animated-image.replacedImage" width="250" alt="GIF" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" style="display: block; opacity: 1;">
+    <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="50" height="2"></canvas>
 <ul dir="auto">
 <li>👨🏽‍💻 Estou estudando e aperfeiçoando no momento o modulo de <strong>BACK END</strong> pela <strong>Trybe</strong>;</li>
 <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> Estou aprendendo como melhorar a soft-skills referente a autoliderança, o proposito de aprimorar essa soft skill é para ter um controle maior sobre minha carreira;</li>
