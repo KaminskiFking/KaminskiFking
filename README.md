@@ -48,10 +48,10 @@ Olá, me chamo **Vinicius Kaminski**, sou de São Paulo, Brasil e atualmente **E
 </p>
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaminskiFking&layout=compact&theme=dracula&title_color=268bd2" alt="layokaminski" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaminskiFking&layout=compact&theme=dracula&title_color=268bd2" alt="ViniciusKaminski" />
 </p>
 <p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=KaminskiFking&count_private=true&show_icons=true&theme=dracula&icon_color=268bd2&title_color=268bd2" alt="johnatas-henrique" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=KaminskiFking&count_private=true&show_icons=true&theme=dracula&icon_color=268bd2&title_color=268bd2" alt="ViniciusKaminski" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KaminskiFking" alt="KaminskiFking" /> </p>
