@@ -56,4 +56,4 @@ Olá, me chamo **Vinicius Kaminski**, sou de São Paulo, Brasil e atualmente **E
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KaminskiFking" alt="KaminskiFking" /> </p>
 
-⭐️ Baseado em [Johnatas Henrique](https://github.com/johnatas-henrique)
+⭐️ Baseado em [Layo Kaminski](https://github.com/layokaminski)
