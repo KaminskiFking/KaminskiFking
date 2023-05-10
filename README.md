@@ -11,7 +11,7 @@
 <br />
 <br />
 
-Olá, me chamo **Vinicius Kaminski**, sou de São Paulo, Brasil e atualmente **Estudante em Desenvolvimento Web Full Stack na Trybe**, para poder impactar o máximo de pessoas possíveis, com **tecnologia e inovação!** 🚀.
+Olá, meu nome é *Vinicius Kaminski, sou de São Paulo*, Brasil, sou um *Desenvolvedor Full-Stack Formado pela Trybe*💻 para poder impactar o máximo de pessoas possíveis, com tecnologia e inovação! 🚀.
 
 **Meus interesses pessoais:**
 
