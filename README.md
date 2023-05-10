@@ -17,7 +17,7 @@ Olá, meu nome é **Vinicius Kaminski, sou de São Paulo**, Brasil, sou um **Des
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
 
-- 👨🏽‍💻 Estou estudando e aperfeiçoando no momento o modulo de **BACK END** pela **Trybe** && Cursando por fora conteudo sobre **Java** e aperfeiçoando a linguagem e o paradigma de **Programação Orientada a Objetos(POO)**;
+- 👨🏽‍💻 Estou atualmente desenvolvendo **projetos pessoais e freelances para aprimorar cada vez mais meu conhecimento e portfolio** && Cursando por fora conteudo sobre **Java** e aperfeiçoando a linguagem e o paradigma de **Programação Orientada a Objetos(POO)**;
 - 🌱 Estou aprendendo como melhorar a soft-skills referente a autoliderança, o proposito de aprimorar essa soft skill é para ter um controle maior sobre minha carreira;
 - 🤔 Meus hobbies são anime, jogos e academia;
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
